@@ -1,0 +1,5 @@
+
+*.cihx
+*.pkl
+*.tif
+.ipynb_checkpoints/
